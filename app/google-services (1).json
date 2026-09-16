@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "318534875740",
+    "firebase_url": "https://developer-bacho-default-rtdb.firebaseio.com",
+    "project_id": "developer-bacho",
+    "storage_bucket": "developer-bacho.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318534875740:android:2416d281ec2c74ebca4499",
+        "android_client_info": {
+          "package_name": "com.khelobd.tournament"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318534875740-6s33qvap1h8ammnu6h14u00u55ldv0b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT9dcq7LGAsF2sBOCL7v259YEAxQ_HqLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318534875740-6s33qvap1h8ammnu6h14u00u55ldv0b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318534875740:android:1f0f6165942d6a55ca4499",
+        "android_client_info": {
+          "package_name": "com.khelobdesports.tournament"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318534875740-6s33qvap1h8ammnu6h14u00u55ldv0b2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT9dcq7LGAsF2sBOCL7v259YEAxQ_HqLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318534875740-6s33qvap1h8ammnu6h14u00u55ldv0b2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
